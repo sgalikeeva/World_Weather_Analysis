@@ -1,1 +1,5 @@
-# World_Weather_Analysis
+# World Weather Analysis: 
+For ths challenge, the objective was to create a travel itinerary map based on customer weather preferences for a trip. This challenge consisted of 3 deliverables:
+1. Deliverable 1 - retrieving weather data via an API call to OpenWeatherMap and adding the data to a dataframe and then exporting it to a csv. 
+2. Deliverable 2 - creating a map of possible destinations for customer. This map is based on customer weather preferences via an input statements. Based on those preferences, potential travel destinations and nearby hotels were identified, retrieved from data via an API call to Google Maps. The destinations are shown on a marker layer map with pop-up markers.
+3. Deliverable 3 - creating a travel itinerary map between cities for a customer. The Google Directions API was used to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. A marker layer map was created with a pop-up marker for each city on the itinerary.
