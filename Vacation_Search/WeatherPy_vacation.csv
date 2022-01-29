@@ -23,7 +23,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 95,Broken Hill,AU,92.91,clear sky,-31.95,141.4333,Royal Exchange Hotel
 106,Cockburn Town,TC,77.68,clear sky,21.4612,-71.1419,Osprey Beach Hotel
 107,Currais Novos,BR,75.0,overcast clouds,-6.2608,-36.5178,Sâmily Flat Hotel
-109,Mayor Pablo Lagerenza,PY,86.97,clear sky,-19.9309,-60.7718,
 110,Atuona,PF,78.76,light rain,-9.8,-139.0333,Villa Enata
 112,Hilo,US,78.53,scattered clouds,19.7297,-155.09,Hilo Hawaiian Hotel
 115,Lorengau,PG,83.98,overcast clouds,-2.0226,147.2712,Lorengau Harbourside Hotel
@@ -57,7 +56,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 247,Boa Vista,BR,82.38,clear sky,2.8197,-60.6733,Aipana Plaza Hotel
 255,Atambua,ID,79.38,broken clouds,-9.1061,124.8925,Pastori 1 Jemaat Polycarpus
 260,Port-Gentil,GA,80.11,overcast clouds,-0.7193,8.7815,Fengshui Residence
-264,Aitape,PG,83.57,overcast clouds,-3.1374,142.3475,
 265,Iracoubo,GF,75.34,scattered clouds,5.4802,-53.2011,Le Gîte d’Iracoubo
 268,Bubaque,GW,78.82,broken clouds,11.2833,-15.8333,"Casa Dora, Bubaque"
 286,Innisfail,AU,79.41,overcast clouds,-17.5333,146.0333,Moondarra Motel
@@ -94,7 +92,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 415,Bacong,PH,81.61,scattered clouds,9.2464,123.2956,Sta Monica Beach Club
 416,Natal,BR,79.02,heavy intensity rain,-5.795,-35.2094,Villa Park Hotel | Natal
 419,Monrovia,LR,79.12,few clouds,6.3005,-10.7969,Sunset Inn
-427,Gamba,GA,75.99,overcast clouds,-2.65,10.0,
 437,Mayumba,GA,76.1,broken clouds,-3.432,10.6554,LIKWALE LODGE
 438,Prieska,ZA,81.27,clear sky,-29.6641,22.7474,Avenue GuestHouse
 439,Vung Tau,VN,78.6,few clouds,10.346,107.0843,Green hotel
